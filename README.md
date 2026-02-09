@@ -4,6 +4,12 @@ A repo for sharing rare Xperia Boot and Loader files. Including: S1-Boots, S1-Lo
 # Platform Codenames & Devices:
 [ToDo]
 
+| **Platform** 	|              **SOC**             	|        **Devices**       	|
+|:------------:	|:--------------------------------:	|:------------------------:	|
+|    ES209RA   	|    Qualcomm Snapdragon QSD8250   	|   rachael [Xperia™ X10]  	|
+|     DELTA    	| Qualcomm Snapdragon S1 - MSM7227 	| robyn [Xperia™ X10 Mini] 	|
+|              	|                                  	|                          	|
+
 # Note
 1. Attention!\
    Emergency loaders (e.g. Firehose loaders) require Sony SAKE Auth for devices from 2016 and later. [Useless/Unusable until a public exploit is released]
