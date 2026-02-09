@@ -4,11 +4,12 @@ A repo for sharing rare Xperia Boot and Loader files. Including: S1-Boots, S1-Lo
 # Platform Codenames & Devices:
 [ToDo]
 
-| **Platform** 	|              **SOC**             	|        **Devices**       	|
-|:------------:	|:--------------------------------:	|:------------------------:	|
-|    ES209RA   	|    Qualcomm Snapdragon QSD8250   	|   rachael [Xperia™ X10]  	|
-|     DELTA    	| Qualcomm Snapdragon S1 - MSM7227 	| robyn [Xperia™ X10 Mini] 	|
-|              	|                                  	|                          	|
+| **Platform** 	|              **SOC**             	|                                                             **Devices**                                                             	|
+|:------------:	|:--------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------------:	|
+|    ES209RA   	|    Qualcomm Snapdragon QSD8250   	| rachael [Xperia™ X10]                                                                                                               	|
+|     DELTA    	| Qualcomm Snapdragon S1 - MSM7227 	| robyn [Xperia™ X10 Mini]<br>mimmi [Xperia™ X10 Mini Pro]<br>shakira [Xperia™ X8]                                                    	|
+|    MOGAMI    	| Qualcomm Snapdragon S2 - MSM8x55 	| anzu [Xperia™ Arc]<br>hallon [Xperia™ Neo]<br>zeus [Xperia™ PLAY]<br>lyokan [Xperia™ Pro]<br>smultron [Xperia™ Mini]<br>.<br>.<br>. 	|
+
 
 # Note
 1. Attention!\
